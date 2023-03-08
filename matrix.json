@@ -1,18 +1,14 @@
 [
     [
-     "Nombre", "Las uvas de la ira"
+      "Las uvas de la ira", "Relatos de poder", "Ojo al cine"
     ],
 
     [ 
-     "Nombre", "La espuma de los dias"
+     "La espuma de los dias", "", "La montaña magica", "1Q84"
     ],
 
     [ 
-     "Nombre", "La montaña magica"
-    ],
-
-    [
-     "Nombre", "1Q84"
+     "En el camino", "Cuentos sin plumas", "Subterraneos"
     ]
    
 ]
