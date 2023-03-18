@@ -53,7 +53,7 @@ import Auto from "./auto";
   listadoAutos() {
      const fs = require ('fs')
 
-     const datos = fs.readFileSync('./autos.json', "utf8");
+     const datos = fs.readFileSync('./listadoAutos.json', "utf8");
      const autos = JSON.parse(datos)
   
        console.log(autos);

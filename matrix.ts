@@ -1,7 +1,8 @@
 
 
+   export class Matriz{ 
 
-function getConsultarValor(val1,val2){
+        getConsultarValor(val1,val2): number{
 
         const fs = require ('fs')
 
@@ -10,12 +11,17 @@ function getConsultarValor(val1,val2){
      
           return matrix[val1][val2]
           
-
+      console.log();
+       
+       
+       
     }
-    
- console.log(getConsultarValor(0, 2));
+     
+  }
+  
+  let consultar = new Matriz;
 
-   
+ consultar.getConsultarValor(0, 1);
 
        
     
